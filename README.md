@@ -25,5 +25,3 @@ This project is developed as part of the **1M1B – IBM SkillsBuild AI for Susta
 - RAG-based retrieval from waste management guidelines
 - Transparent and responsible AI usage
 
-## 📌 Note
-This is a **conceptual prototype** created for educational purposes.
